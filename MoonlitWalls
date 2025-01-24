@@ -1,5 +1,41 @@
 [
-  {
+   {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/deep%20blue.png",
+			"name": "deep blue",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/forest%20trill.png",
+			"name": "forest trill",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/paint%20me%20purple.png",
+			"name": "paint me purple",
+			"collections": "hillside",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/rebirth%20day.png",
+			"name": "rebirth day",
+			"collections": "hillside",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/rebirth%20night.png",
+			"name": "rebirth night",
+			"collections": "hillside",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/white%20noise.png",
+			"name": "white noise",
+			"collections": "deer",
+			"author": "Wigebox"
+		},
+            {
 		"name": "crapers in light",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/crapers%20in%20light.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/crapers%20in%20light.jpg",
