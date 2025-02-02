@@ -1,5 +1,48 @@
 [
-   {
+  {
+		"name": "great escape",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/great%20escape.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/great%20escape.jpg",
+		"collections": "valleys & desets",
+		"downloadable": "false"
+    },
+    {
+		"name": "homestead",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/homestead.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/homestead.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "moonbeam",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/moonbeam.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/moonbeam.jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    },
+    {
+		"name": "pink twilight",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/pink%20twilight.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/pink%20twilight.jpg",		
+		"collections": "enchanted",
+		"downloadable": "false"
+    },
+    {
+		"name": "rivercruise",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/river%20cruise.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/river%20cruise.jpg",
+		"collections": "mountain & rivers",
+		"downloadable": "false"
+    },
+    {
+		"name": "sapling alone",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/sapling%20alone.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/sapling%20alone.jpg",
+		"collections": "trees & moon",
+		"downloadable": "false"
+    },
+    {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/deep%20blue.png",
 			"name": "deep blue",
 			"collections": "minimal art",
