@@ -1,4 +1,47 @@
 [
+   {
+		"name": "beyond affinity",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/beyond%20affinity.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/beyond%20affinity%20(2).jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    },
+    {
+		"name": "evening dawn",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/blob/heads/Minimal/evening%20dawn.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/evening%20dawn.jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "floor lamp",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/floor%20lamp.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/floor%20lamp.jpg",
+		"collections": "minimal art",
+		"downloadable": "false"
+    },
+    {
+		"name": "hypnotic night",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/hypnotic%20night.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/hypnotic%20night.jpg",		
+		"collections": "enchanted",
+		"downloadable": "false"
+    },
+    {
+		"name": "night horizon",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/night%20horizon.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/night%20horizon.jpg",
+		"collections": "enchanted",
+		"downloadable": "false"
+    },
+    {
+		"name": "under a cloud",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/under%20a%20cloud.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/under%20a%20cloud.jpg",
+		"collections": "trees & moon",
+		"downloadable": "false"
+    },
     {
 		"name": "bird of pray",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/bird%20of%20pray.png",
