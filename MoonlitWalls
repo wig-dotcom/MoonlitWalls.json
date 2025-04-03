@@ -1,5 +1,48 @@
 [
    {
+		"name": "chronic bliss",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/chronic%20bliss.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Gold%20Dark.jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    },
+    {
+		"name": "elegance of nature",
+		"url": "https:raw //githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/elegance%20of%20nature.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/elegance%20of%20nature.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "mountain vista",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/mountain%20vista.jpg",
+		"thumbnail": "https://github.com/wig-dotcom/MoonlitWalls.json/blob/main/Minimal/mountain%20vista%20(2).jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "over the waves",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/over%20the%20waves.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/over%20the%20waves.jpg",		
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "sleepy story",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/sleepy%20story.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/sleepy%20story.jpg",
+		"collections": "trees & moon",
+		"downloadable": "false"
+    },
+    {
+		"name": "spectral serenity",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/spectral%20serenity.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/spectral%20serenity.jpg",
+		"collections": "minimal art",
+		"downloadable": "false"
+    },
+    {
 		"name": "gold dark",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Gold%20Dark.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Gold%20Dark%20(2).jpg",
