@@ -1,5 +1,48 @@
 [
-   {
+  {
+		"name": "country side",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/country%20side.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/country%20side%20(2).jpg",
+		"collections": "hills & valley",
+		"downloadable": "false"
+    },
+    {
+		"name": "lovers paradise",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/lovers%20paradise.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/lovers%20paradise.jpg",
+		"collections": "hillside",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "moonrise",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/moonrise.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/moonrise%20(2).jpg",
+		"collections": "trees & moon",
+		"downloadable": "false"
+    },
+    {
+		"name": "pixeled vibes",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/pixeled%20vibes.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/pixeled%20vibes.jpg",		
+		"collections": "enchanted",
+		"downloadable": "false"
+    },
+    {
+		"name": "talking clouds",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/talking%20clouds.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/talking%20clouds.jpg",
+		"collections": "dark",
+		"downloadable": "false"
+    },
+    {
+		"name": "voxel valley",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/voxel%20valley.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/voxel%20valley.jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    },
+    {
 		"name": "chronic bliss",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/chronic%20bliss.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/chronic%20bliss.jpg",
