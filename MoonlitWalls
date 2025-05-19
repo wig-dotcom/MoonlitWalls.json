@@ -1,5 +1,48 @@
 [
- {
+    {
+		"name": "living valley",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/living%20valley.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/living%20valley.jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    },
+    {
+		"name": "moving racers",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/moving%20racers.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/moving%20racers.jpg",
+		"collections": "minimal art,
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "solitude symphony",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/solitude%20symphony.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/solitude%20symphony.jpg",
+		"collections": "hiils & valleys",
+		"downloadable": "false"
+    },
+    {
+		"name": "soul of light",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/soul%20of%20light.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/soul%20of%20light.jpg",		
+		"collections": "enchanted",
+		"downloadable": "false"
+    },
+    {
+		"name": "volks emb",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/volks%20emb.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/volks%20emb.jpg",
+		"collections": "dark",
+		"downloadable": "false"
+    },
+    {
+		"name": "sandmans lullaby",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/sandmans%20lullaby.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/sandmans%20lullaby.jpg",
+		"collections": "android14",
+		"downloadable": "false"
+    },
+    {
 		"name": "cosmic clarity",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/cosmic%20clarity.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/cosmic%20clarity.jpg",
