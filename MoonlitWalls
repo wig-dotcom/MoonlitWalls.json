@@ -3,7 +3,7 @@
 		"name": "morning majestic",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/morning%20majestic.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/morning%20majestic.jpg",
-		"collections": "hills & valley",
+		"collections": "hills & valleys",
 		"downloadable": "false"
     },
     {
@@ -82,7 +82,7 @@
 		"name": "cosmic clarity",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/cosmic%20clarity.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/cosmic%20clarity.jpg",
-		"collections": "hills & valley",
+		"collections": "hills & valleys",
 		"downloadable": "false"
     },
     {
@@ -125,7 +125,7 @@
 		"name": "country side",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/country%20side.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/country%20side%20(2).jpg",
-		"collections": "hills & valley",
+		"collections": "hills & valleys",
 		"downloadable": "false"
     },
     {
@@ -950,6 +950,7 @@
 			"name": "holding my world",
 			"collections": "minimal art",
 			"author": "Wigebox"
+                        "downloadable": "false"
 		},
 	    {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/night%20cruse.png",
