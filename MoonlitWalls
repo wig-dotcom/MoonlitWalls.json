@@ -1,5 +1,48 @@
 [
  {
+		"name": "awekening",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/awekening.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/awekening.jpg",
+		"collections": "hills & valley",
+		"downloadable": "false"
+    },
+    {
+		"name": "be with me",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/be%20with%20me.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/be%20with%20me.jpg",
+		"collections": "minimal",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "bold pines",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/bold%20pines.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/bold%20pines.jpg",
+		"collections": "trees & moon",
+		"downloadable": "false"
+    },
+    {
+		"name": "eternal journey",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/eternal%20journey.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/eternal%20journey.jpg",		
+		"collections": "enchanted",
+		"downloadable": "false"
+    },
+    {
+		"name": "even ashtrophile",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/even%20astrophile.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/even%20astrophile.jpg",
+		"collections": "enchanted",
+		"downloadable": "false"
+    },
+    {
+		"name": "friends forever",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/friends%20forever.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/friends%20forever.jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    },
+    {
 		"name": "grains of pines",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/grains%20of%20pines.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/grains%20of%20pines.jpg",
