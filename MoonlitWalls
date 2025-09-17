@@ -1,5 +1,55 @@
 [
  {
+		"name": "air breeze",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/air%20breeze.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/air%20breeze.jpg",
+		"collections": "hills & valley",
+		"downloadable": "false"
+    },
+    {
+		"name": "birds on move",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/birds%20on%20move.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/birds%20on%20move.jpg",
+		"collections": "minimal",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "foged",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/foged.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/foged.jpg",
+		"collections": "trees & moon",
+		"downloadable": "false"
+    },
+    {
+		"name": "scarlet morning",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/scarlet%20morning.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/scarlet%20morning.jpg",		
+		"collections": "enchanted",
+		"downloadable": "false"
+    },
+    {
+		"name": "seagul point",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/seagul%20point.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/seagul%20point.jpg",
+		"collections": "enchanted",
+		"downloadable": "false"
+    },
+    {
+		"name": "searching truth",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/searching%20truth.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/searching%20truth.jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    }, 
+    {
+		"name": "touch of mountain",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/touch%20of%20mountain.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/touch%20of%20mountain.jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    },
+    {
 		"name": "awekening",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/the%20awekening.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/the%20awekening.jpg",
@@ -15,7 +65,7 @@
     },
     {
 		
-                "name": "bold pines",
+        "name": "bold pines",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/bold%20pines.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/bold%20pines.jpg",
 		"collections": "trees & moon",
