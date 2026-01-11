@@ -1,5 +1,55 @@
 [
  {
+		"name": "dark meets green",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/dark%20meets%20green.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/dark%20meets%20green.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "dwelling reef",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/dwelling%20to%20reef.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/dwelling%20to%20reef.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "moonlit",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/moonlit.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/moonlit.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "mountain breeze",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/mountain%20breeze.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/mountain%20breeze.jpg",		
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "paddy hills",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/paddy%20hills.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/paddy%20hills.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "rice field",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/rice%20field.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/rice%20field.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    }, 
+    {
+		"name": "touch of mountain",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/sunset%20point.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/sunset%20point.jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    },
+    {
 		"name": "abstract shelter",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/abstract%20shelter.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/abstract%20shelter.jpg",
