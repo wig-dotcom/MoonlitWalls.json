@@ -1,5 +1,55 @@
 [
 {
+		"name": "misty encounter",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/misty%20encounter.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/misty%20encounter.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "rising sun",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/rising%20sun.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/rising%20sun.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "vanilla evening",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/vanilla%20evening.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/vanilla%20evening.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "full of couds",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/full%20of%20clouds.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/full%20of%20clouds.jpg",		
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "desert flame",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/desert%20flame.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/desert%20flame%20(2).jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "dark escape",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/dark%20escape.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/dark%20escape.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    }, 
+    {
+		"name": "abstract creative",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/abstract%20creative.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/abstract%20creative.jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    },
+    {
 		"name": "different vvibes",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/different%20vibe.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/different%20vibe.jpg",
