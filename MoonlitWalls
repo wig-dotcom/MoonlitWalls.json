@@ -2,7 +2,7 @@
 {
 		"name": "black sands",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Black%20Sands.jpg",
-		"thumbnail": "https://github.com/wig-dotcom/MoonlitWalls.json/blob/main/Minimal/Black%20Sands%20(2).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Black%20Sands%20(2).jpg",
 		"collections": "valleys & deserts",
 		"downloadable": "false"
     },
