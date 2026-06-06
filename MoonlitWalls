@@ -1,5 +1,55 @@
 [
 {
+		"name": "black sand reverie",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Black%20Sand%20Reverie.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Black%20Sand%20Reverie.jpg",
+		"collections": "trees & moon",
+		"downloadable": "false"
+    },
+    {
+		"name": "glacial surge",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Glacial%20Surge.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Glacial%20Surge.jpg",
+		"collections": "mountain & rivers",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "golden tide",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Golden%20Tide.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Golden%20Tide.jpg",
+		"collections": "seaside",
+		"downloadable": "false"
+    },
+    {
+		"name": "mooncloud horizon",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Mooncloud%20Horizon.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Mooncloud%20Horizon.jpg",		
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "neon eclipse",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Neon%20Eclipse.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Neon%20Eclipse.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "sapphire sunset",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Sapphire%20Sunset.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Sapphire%20Sunset.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    }, 
+    {
+		"name": "twilight reflection",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Twilight%20Reflection.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Twilight%20Reflection.jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    },
+    {
 		"name": "black sands",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Black%20Sands.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Black%20Sands%20(2).jpg",
