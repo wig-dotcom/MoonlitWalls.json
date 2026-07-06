@@ -1,5 +1,55 @@
 [
 {
+		"name": "emrald fields",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Emerald%20Fields.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Emerald%20Fields.jpg",
+		"collections": "trees & moon",
+		"downloadable": "false"
+    },
+    {
+		"name": "inferno woods",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Inferno%20Woods.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Inferno%20Woods.jpg",
+		"collections": "mountain & rivers",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "silent dunes",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Silent%20Dunes.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Silent%20Dunes%20(2).jpg",
+		"collections": "seaside",
+		"downloadable": "false"
+    },
+    {
+		"name": "starlit serenity",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/starlit%20serenity.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/starlit%20serenity.jpg",		
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "the medow",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/the%20medow.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/the%20medow.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "time to leave",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/time%20to%20leave.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/time%20to%20leave.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    }, 
+    {
+		"name": "moon crater",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/moon%20crater.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/moon%20crater.jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    },
+    {
 		"name": "black sand reverie",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Black%20Sand%20Reverie.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Black%20Sand%20Reverie.jpg",
