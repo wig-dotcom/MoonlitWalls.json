@@ -1,5 +1,55 @@
 [
 {
+		"name": "lighthouse legends",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Lighthouse%20of%20Legends.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Emerald%20Fields.jpg",
+		"collections": "minimal",
+		"downloadable": "false"
+    },
+    {
+		"name": "luminous cliffs",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Luminous%20Cliffs.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Luminous%20Cliffs.jpg",
+		"collections": "handmade",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "midnight range",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Midnight%20Range.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Midnight%20Range.jpg",
+		"collections": "seaside",
+		"downloadable": "false"
+    },
+    {
+		"name": "silver relection",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Silver%20Reflection.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Silver%20Reflection.jpg",		
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "vermillion rift",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Vermilion%20Drift.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Vermilion%20Drift.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    },
+    {
+		"name": "lonely tree",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/lonely%20tree.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/lonely%20tree.jpg",
+		"collections": "valleys & deserts",
+		"downloadable": "false"
+    }, 
+    {
+		"name": "azure reflection",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Azure%20Reflection.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Azure%20Reflection.jpg",
+		"collections": "hills & valleys",
+		"downloadable": "false"
+    },
+    {
 		"name": "emrald fields",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Emerald%20Fields.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/Emerald%20Fields.jpg",
